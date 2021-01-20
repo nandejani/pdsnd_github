@@ -33,6 +33,5 @@ For Try and Except:
 - https://www.w3schools.com/python/python_try_except.asp
 For Pandas:
 - https://www.geeksforgeeks.org/python-pandas-dataframe-mean/#:~:text=mean()
-%20function%20return%20the,the%20observations%20in%20the%20dataframe .
 For everything else:
 - Udacity’s Programming for Data Science course
