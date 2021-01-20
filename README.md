@@ -1,9 +1,5 @@
-Python Script to Explore US Bikeshare
-Data
-This is project 2 for Udacity’s Programming for Data Science course. This code explores
-the bikeshare data of Chicago, Washington, and New York City. It is meant to calculate
-statistics about the 3 bikeshare systems and presents this information in an interactive
-user-friendly way.
+Python Script to Explore US Bikeshare Data
+This is project 2 for Udacity’s Programming for Data Science course. This code explores the bikeshare data of Chicago, Washington, and New York City. It is meant to calculate statistics about the 3 bikeshare systems and presents this information in an interactive user-friendly way.
 How to Access The Files
 You need python installed, an interpreter like atom, and your terminal. Categorize all the
 CSV files and the bikeshare.py file together and run them on your terminal/using an
